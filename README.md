@@ -1,2 +1,2 @@
 # PF-Lab-03
-Public repository for PF Lab 03 assignments
+This repository contains solutions and code for PF Lab 03.
